@@ -2,5 +2,7 @@ theme: jekyll-theme-cayman
 title: coucou estellee
 description: rADAdouille 
 show_downloads: True
-
+navigation:
+  - title: Example
+    url: example.md
 
