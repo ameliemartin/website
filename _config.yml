@@ -3,6 +3,6 @@ title: coucou estelle
 description: rADAdouille 
 show_downloads: True
 navigation:
-  - title: Example
+  - title: example.md
     url: example.md
 
