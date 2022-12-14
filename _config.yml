@@ -1,9 +1,8 @@
 theme: jekyll-theme-minimal
-title: ADA Template Website
-description: A template website for ADA
+title: New title 
+description: rADAdouille
 show_downloads: True
 navigation:
   - title: Home
     url: /
-  - title: Example
-    url: example
+
