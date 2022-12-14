@@ -5,4 +5,6 @@ show_downloads: True
 navigation:
   - title: example.md
     url: example.md
+  - title: new_one.md
+    url: new_one.md
 
