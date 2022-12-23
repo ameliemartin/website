@@ -10,3 +10,8 @@ ADA Template Website
 **Important**: Please include ```--- layout: default ---``` (the first three line in `example.md`) at the beginning of your every newly created `.md` file.
 5. Add your new `.md` files to the site by editing the `_config.yml` file in your forked repository. Under `navigation:` add a new pair of `- title:` and `url:`, and fill their value with your page name and `.md` file name. Remember to remove the `- title:` and `url:` pair for the example page.
 6. Go back to "Settings" -> "Pages" to find your website link.
+
+
+| **Country**          | Danemark `da`| <font color='green'>Finland `fi`</font> |Italy `it`| Japan `ja`| Netherlands `nl`|Norway `no`| Sweden `sv`|
+|:---------------------:|:-----------:|:----------:|:---------:|:--------------:|:---------:|:--------------:|:------------:|
+| **pValue of B4**| 0.120672 |<font color='green'>0.019938</font>  |0.304459 | 0.550446|0.231474|0.950895 |0.752893|
