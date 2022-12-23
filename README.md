@@ -15,3 +15,6 @@ ADA Template Website
 | **Country**          | Danemark `da`| <font color='green'>Finland `fi`</font> |Italy `it`| Japan `ja`| Netherlands `nl`|Norway `no`| Sweden `sv`|
 |:---------------------:|:-----------:|:----------:|:---------:|:--------------:|:---------:|:--------------:|:------------:|
 | **pValue of B4**| 0.120672 |<font color='green'>0.019938</font>  |0.304459 | 0.550446|0.231474|0.950895 |0.752893|
+
+
+![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
